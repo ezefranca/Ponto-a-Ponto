@@ -234,7 +234,7 @@
         <!--Início-->
         <scene sceneID="5Ue-a8-drq">
             <objects>
-                <viewController id="iVt-VE-B29" sceneMemberID="viewController">
+                <viewController id="iVt-VE-B29" customClass="HomeVC" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="rrL-UW-CJt">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="504"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>

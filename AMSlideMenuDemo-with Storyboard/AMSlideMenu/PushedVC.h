@@ -2,7 +2,7 @@
 //  PushedVC.h
 //  AMSlideMenu
 //
-//  Created by Artur Mkrtchyan on 12/25/13.
+//  Created by InovaCidades on 12/25/13.
 //  Copyright (c) 2013 SocialObjects Software. All rights reserved.
 //
 
